@@ -21,7 +21,7 @@ The products are displayed in a list of 4 elements.
 ```npm start```
 
 
-### Built With
+## Built With
 - React - JavaScript library
 -	create-react-app boilerplate
 -	React Bootstrap - Frontend Framework
