@@ -5,7 +5,7 @@ The products are displayed in a list of 4 elements.
 
 ## Getting Started
 ### Prerequisites
-•	Node.js
+- Node.js
 
 
 ## To run this project
