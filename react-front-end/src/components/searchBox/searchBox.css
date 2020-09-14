@@ -1,0 +1,43 @@
+.LogoML {
+    height: 35px;
+    width: auto;
+}
+
+.searchBar-container {
+    margin-left: 10%;
+    margin-right: 10%;
+    width: 100%;
+}
+
+.searchBar {
+    padding: 0;
+}
+
+.bg-container {
+    background-color: #FFE600;
+}
+
+.variant-outline-search {
+    color: #999999
+}
+
+.bg-button {
+    background-color: #999999
+}
+
+.searchTextBot {
+    height: 35px;
+}
+
+.searchButton {
+    height: 35px;
+    width: 35px;
+}
+
+.searchBar{
+    height: 55px;
+}
+
+.spinner-container {    
+    margin-top: 15rem;
+}

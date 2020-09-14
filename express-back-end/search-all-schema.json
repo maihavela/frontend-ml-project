@@ -1,0 +1,25 @@
+{
+    "author": {
+        "name": "String",
+        "lastname": "String"
+    },
+    "categories": [
+        "category1",
+        "Categori2",
+        "Category3"
+    ],
+    "items": [
+        {
+            "id": "String",
+            "title": "String",
+            "price": {
+                "currency": "String",
+                "amount": 1,
+                "decimals": 2.3
+            },
+            "picture": "String",
+            "condition": "String",
+            "free_shipping": true
+        }
+    ]
+}
